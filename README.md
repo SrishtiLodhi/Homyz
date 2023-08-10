@@ -1,5 +1,5 @@
 
-<h1>Real Estate Website</h1>
+<h1>Homyz</h1>
 
 <p>This is a responsive real estate website built using ReactJS, Modern CSS, React hooks, framer motion, and integrated with the Swiper JS slider for a seamless browsing experience.</p>
 
